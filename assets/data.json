@@ -1,0 +1,122 @@
+[
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "correct_answer": "Hearts",
+        "incorrect_answers": [
+            "Spades",
+            "Diamonds",
+            "Clubs"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the Morse code, which letter is indicated by 3 dots? ",
+        "correct_answer": "S",
+        "incorrect_answers": [
+            "O",
+            "A",
+            "C"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which language is NOT Indo-European?",
+        "correct_answer": "Hungarian",
+        "incorrect_answers": [
+            "Russian",
+            "Greek",
+            "Latvian"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "correct_answer": "Tandoori",
+        "incorrect_answers": [
+            "Biryani",
+            "Pani puri",
+            "Tiki masala"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "correct_answer": "L&ouml;ffel",
+        "incorrect_answers": [
+            "Gabel",
+            "Messer",
+            "Essst&auml;bchen"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "correct_answer": "Fruit Brute",
+        "incorrect_answers": [
+            "Count Chocula",
+            "Franken Berry",
+            "Boo-Berry"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is real haggis made of?",
+        "correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "incorrect_answers": [
+            "Sheep&#039;s Heart, Kidneys and Lungs",
+            "Sheep&#039;s Liver, Kidneys and Eyes",
+            "Whole Sheep"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Earl Grey tea is black tea flavoured with what?",
+        "correct_answer": "Bergamot oil",
+        "incorrect_answers": [
+            "Lavender",
+            "Vanilla",
+            "Honey"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Where did the pineapple plant originate?",
+        "correct_answer": "South America",
+        "incorrect_answers": [
+            "Hawaii",
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+        "correct_answer": "Modernism",
+        "incorrect_answers": [
+            "Neoclassical",
+            "Baroque",
+            "Gothic Revival"
+        ]
+    }
+]
